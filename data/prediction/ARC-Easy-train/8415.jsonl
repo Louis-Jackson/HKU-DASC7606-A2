@@ -1,0 +1,1 @@
+{"id": "Mercury_SC_LBS10584", "log_likelihood": -2.1879732608795166, "question": "Which of the following is a correct food chain?", "candidate_answers": "(A) human -> corn -> cow (B) corn -> human -> cow (C) corn -> cow -> human (D) cow -> human -> corn", "answer": "corn -> human -> cow", "label": "B", "answerKey": "C"}

@@ -1,0 +1,1 @@
+{"id": "Mercury_LBS10378", "log_likelihood": -5.375151634216309, "question": "The following represents a number displayed on a calculator. 1.454545 E3. Which of the following shows how a student should record this number in a laboratory report?", "candidate_answers": "(A) (1.45)^3 (B) 1 5/11 (C) 1.45 x 10^3 (D) 1.45 x 3", "answer": "1 5/11", "label": "B", "answerKey": "C"}
